@@ -1,0 +1,6 @@
+{
+  "name": "SyncPulse: Meeting Intelligence & Trend Hub",
+  "description": "AI meeting transcript summarizer, team action plan & responsibility tracker, and cross-meeting dynamic trend analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
